@@ -1,2 +1,2 @@
 # learnCircleCI
-This repository created to learn circleCI
+This repository is created to learn circleCI
